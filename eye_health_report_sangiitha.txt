@@ -1,0 +1,21 @@
+EYE HEALTH REPORT:
+    -------------------------------
+    PATIENT NAME: sangiitha
+    AGE: 20
+    LEFT EYE EAR: 0.28
+    RIGHT EYE EAR: 0.25
+
+    EYE CONDITION: Normal
+    
+    RECOMENDATIONS:
+    -------------------------------
+    - Rest your eyes regularly.
+    - Try the 20-20-20 rule: Take a 20-second break every 20 minutes, looking at something 20 feet away.
+
+     NUTRIENTS FOR EYE HEALTH :
+    -------------------------------
+    - Carrots (Rich in Vitamin A)
+    - Spinach (Rich in lutein)
+    - Eggs (Rich in Vitamin A and Zinc)
+    - Fish (Omega-3 fatty acids for eye health)
+     - Maintain healthy habits to keep your eyes in good condition.
