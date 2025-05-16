@@ -1,5 +1,5 @@
 Hi everyone.....
-This project is about to detect the eye strain and give it as a reading of your left and right eye..
+This project is about to detect the eye strain and give it as a reading of your left and right eye.. to be aware of your eye power
 step1: Enter your name
 step2: Enter your age
 step3: An open cv is on to detect your eye 
